@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserDisplay matches a snapshot 1`] = `
+<div>
+  Cody
+  this is a pic
+  this is a link
+  this is also a link
+  20
+  30
+</div>
+`;

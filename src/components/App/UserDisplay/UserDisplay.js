@@ -19,6 +19,6 @@ UserDisplay.propTypes = {
   repoLink: PropTypes.string.isRequired,
   followerCount: PropTypes.number.isRequired,
   followingCount: PropTypes.number.isRequired
-}
+};
 
 export default UserDisplay;
