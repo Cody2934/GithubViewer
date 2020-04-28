@@ -1,0 +1,18 @@
+All in one big ol' container (UserViewer)
+(passes state to both)
+
+INPUT USER NAME (UserSearch)
+-text input
+(passes state to UserInfo) 
+
+DISPLAY USER INFO (UserDisplay)
+{
+-username - "login" - STRING
+-profile pic - "avatar_url" - STRING
+-link to github profile  - "html_url" - STRING
+-display all repos - "repos_url" - STRING
+-follower count - "followers" - NUMBER
+-following count - "following" - NUMBER
+}
+
+
