@@ -4,7 +4,7 @@ import UserDisplay from '../../components/UserDisplay/UserDisplay.js';
 
 export default class UserViewer extends Component {
   state = {
-    username: 'this is a username',
+    username: 'Cody',
     profilePic: 'this is a pic',
     profileLink: 'this is a link',
     repoLink: 'this is a link',
