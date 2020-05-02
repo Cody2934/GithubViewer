@@ -1,7 +1,6 @@
 import React from 'react';
-import UserViewer from '../../container/UserViewer';
+import GitHubViewer from '../../container/GitHubViewer/GitHubViewer';
 
 export default function App() {
-  return <UserViewer />;
+  return <GitHubViewer />;
 }
-  
